@@ -229,9 +229,6 @@ tr:hover td { background: #f8fafc; }
           <input type="text" class="search-input" id="search-input" placeholder="이름 또는 학교 검색...">
         </div>
         <div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
-          <button class="btn btn-outline" id="phone-btn" onclick="toggleCol(\'phone\')">
-            <ion-icon name="call-outline"></ion-icon> 연락처 표시
-          </button>
           <button class="btn btn-outline" id="remarks-btn" onclick="toggleCol(\'remarks\')">
             <ion-icon name="document-text-outline"></ion-icon> 비고 표시
           </button>
@@ -248,7 +245,6 @@ tr:hover td { background: #f8fafc; }
               <th class="sortable" onclick="sortBy(\'pos\')">구분</th>
               <th class="sortable" onclick="sortBy(\'subject\')">과목</th>
               <th class="sortable" onclick="sortBy(\'class\')">그룹</th>
-              <th class="phone-col hidden-col">연락처</th>
               <th class="remarks-col hidden-col">비고</th>
             </tr>
           </thead>
@@ -325,7 +321,6 @@ document.getElementById("current-date").textContent = new Date().toLocaleDateStr
 let currentCat = "all";
 let sortCol = "class";
 let sortDir = "asc";
-let phoneVisible = false;
 let remarksVisible = false;
 
 function updateStats() {
@@ -361,7 +356,6 @@ function renderTable() {
   });
 
   document.getElementById("empty-state").style.display = data.length === 0 ? "block" : "none";
-  const phCls = phoneVisible ? "" : " hidden-col";
   const rmCls = remarksVisible ? "" : " hidden-col";
 
   body.innerHTML = data.map(function(d, idx) {
@@ -374,7 +368,6 @@ function renderTable() {
       "<td>" + d.pos + "</td>" +
       "<td>" + d.subject + "</td>" +
       "<td>" + badge + "</td>" +
-      "<td class=\\"phone-col" + phCls + "\\" style=\\"font-size:0.85rem;\\">" + d.phone + "</td>" +
       "<td class=\\"remarks-col" + rmCls + "\\" style=\\"font-size:0.78rem;color:#64748b;max-width:180px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;\\">" + (d.remarks || "") + "</td>" +
       "</tr>";
   }).join("");
@@ -382,20 +375,13 @@ function renderTable() {
   document.getElementById("table-count").textContent = "총 " + data.length + "명 표시 중";
 
   // Sync header cols
-  document.querySelectorAll("th.phone-col").forEach(function(th){ th.className = "phone-col" + phCls; });
   document.querySelectorAll("th.remarks-col").forEach(function(th){ th.className = "remarks-col" + rmCls; });
 }
 
 function toggleCol(which) {
-  if (which === "phone") {
-    phoneVisible = !phoneVisible;
-    const btn = document.getElementById("phone-btn");
-    btn.className = phoneVisible ? "btn btn-primary" : "btn btn-outline";
-  } else {
-    remarksVisible = !remarksVisible;
-    const btn = document.getElementById("remarks-btn");
-    btn.className = remarksVisible ? "btn btn-primary" : "btn btn-outline";
-  }
+  remarksVisible = !remarksVisible;
+  const btn = document.getElementById("remarks-btn");
+  btn.className = remarksVisible ? "btn btn-primary" : "btn btn-outline";
   renderTable();
 }
 
