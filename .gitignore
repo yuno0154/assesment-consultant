@@ -1,0 +1,11 @@
+*.xlsx
+*.xls
+all_data_js.txt
+groups_js.txt
+groups_js2.txt
+data_output.txt
+summary.txt
+groups_result.json
+html_template_part1.txt
+__pycache__/
+*.pyc

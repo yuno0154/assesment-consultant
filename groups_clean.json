@@ -1,0 +1,1544 @@
+[
+  {
+    "group_num": 1,
+    "school_level": "고등학교",
+    "members": [
+      {
+        "name": "정선옥",
+        "school": "경북바이오마이스터고등학교",
+        "school_type": "수석교사",
+        "subject": "식품가공",
+        "phone": "010-9287-0470",
+        "remarks": "수석교사",
+        "is_leader": true
+      },
+      {
+        "name": "정석종",
+        "school": "문창고등학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "010-4149-0602",
+        "remarks": "성취평가제 선도교원 연수 이수(1.7.~1.9.)",
+        "is_leader": false
+      },
+      {
+        "name": "장나운",
+        "school": "경북모빌리티고등학교",
+        "school_type": "교사",
+        "subject": "지리",
+        "phone": "010-4171-8082",
+        "remarks": "연구부장 3년",
+        "is_leader": false
+      },
+      {
+        "name": "정보경",
+        "school": "경산고등학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-4146-6558",
+        "remarks": "성취평가제 선도교원 연수   이수자",
+        "is_leader": false
+      },
+      {
+        "name": "권태욱",
+        "school": "모계고등학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-4070-8540",
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "배효빈",
+        "school": "근화여자고등학교",
+        "school_type": "교사",
+        "subject": "일반사회",
+        "phone": "01088330691",
+        "remarks": "2026학년도 단위학교 교육연구부장, 2024~2025전국단위 평가관련 공모형 연구회 소속 회원",
+        "is_leader": false
+      },
+      {
+        "name": "최희정",
+        "school": "사곡고등학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-3430-8903",
+        "remarks": "2025년 선도교원 연수 이수",
+        "is_leader": false
+      },
+      {
+        "name": "남정은",
+        "school": "포항여자고등학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-75417693",
+        "remarks": "",
+        "is_leader": false
+      }
+    ]
+  },
+  {
+    "group_num": 2,
+    "school_level": "고등학교",
+    "members": [
+      {
+        "name": "김경수",
+        "school": "포항여자고등학교",
+        "school_type": "교사",
+        "subject": "체육",
+        "phone": "010-7163-7508",
+        "remarks": "",
+        "is_leader": true
+      },
+      {
+        "name": "김기돈",
+        "school": "경주여자고등학교",
+        "school_type": "교사",
+        "subject": "역사",
+        "phone": "010-8586-7304",
+        "remarks": "교육과정-수업-평가 현장지원단",
+        "is_leader": false
+      },
+      {
+        "name": "황지연",
+        "school": "후포고등학교",
+        "school_type": "교사",
+        "subject": "생물",
+        "phone": "010-5048-8773",
+        "remarks": "성취평가제   선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "박단비",
+        "school": "모계고등학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-4943-1801",
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "이희진",
+        "school": "한국반도체마이스터고등학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-4115-4926",
+        "remarks": "2024 고교 성취평가 선도교원 연수 이수, 2020년, 2021년 수업선도교사 인증(2회), 연구부장 6년",
+        "is_leader": false
+      },
+      {
+        "name": "최미정",
+        "school": "구미여자고등학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "010-2666-5586",
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "김현아",
+        "school": "포항여자고등학교",
+        "school_type": "교사",
+        "subject": "가정",
+        "phone": "010-5615-0415",
+        "remarks": "",
+        "is_leader": false
+      },
+      {
+        "name": "김현경",
+        "school": "모계고등학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-4597-4234",
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      }
+    ]
+  },
+  {
+    "group_num": 3,
+    "school_level": "고등학교",
+    "members": [
+      {
+        "name": "박지은",
+        "school": "상모고등학교",
+        "school_type": "수석교사",
+        "subject": "국어",
+        "phone": "010-2678-7701",
+        "remarks": "교육과정평가원, 중앙지원단 및 외부점검단 활동, 평가 강사 요원 등",
+        "is_leader": true
+      },
+      {
+        "name": "조효정",
+        "school": "경북기계금속고등학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-6560-0735",
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "김애하",
+        "school": "의성여고",
+        "school_type": "교사",
+        "subject": "음악",
+        "phone": "010-3454-4519",
+        "remarks": "연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "조정아",
+        "school": "오상고등학교",
+        "school_type": "교사",
+        "subject": "도덕윤리",
+        "phone": "01085985795",
+        "remarks": "",
+        "is_leader": false
+      },
+      {
+        "name": "장명희",
+        "school": "포항고등학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "01072331353",
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "김순미",
+        "school": "한국해양마이스터고등학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "010-3546-3495",
+        "remarks": "2025년 수업선도교사 인증",
+        "is_leader": false
+      },
+      {
+        "name": "김종민",
+        "school": "순심고등학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-2422-9234",
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "추문주",
+        "school": "경북외국어고등학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "010-4501-0782",
+        "remarks": "2024 성취평가제 수업선도교사 인증",
+        "is_leader": false
+      }
+    ]
+  },
+  {
+    "group_num": 4,
+    "school_level": "고등학교",
+    "members": [
+      {
+        "name": "박진수",
+        "school": "성주고등학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "01073495500",
+        "remarks": "2023~2026 학생평가중앙지원단",
+        "is_leader": true
+      },
+      {
+        "name": "김영길",
+        "school": "문창고등학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-6663-3563",
+        "remarks": "2026학년도 연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "김용현",
+        "school": "구미산동고등학교",
+        "school_type": "교사",
+        "subject": "역사",
+        "phone": "010-3199-7060",
+        "remarks": "학생평가 중앙 지원단",
+        "is_leader": false
+      },
+      {
+        "name": "박영",
+        "school": "경북일고등학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-8779-3875",
+        "remarks": "학생평가 중앙 지원단",
+        "is_leader": false
+      },
+      {
+        "name": "이교현",
+        "school": "포항제철공업고등학교",
+        "school_type": "교사",
+        "subject": "기계",
+        "phone": "010-9382-1813",
+        "remarks": "연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "이고운",
+        "school": "한국반도체마이스터고등학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "010-9309-3703",
+        "remarks": "2025년 수업선도교사 인증",
+        "is_leader": false
+      },
+      {
+        "name": "박정희",
+        "school": "포항이동고등학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "010-5172-1671",
+        "remarks": "성취평가제 선도교원 연수 이수",
+        "is_leader": false
+      },
+      {
+        "name": "안효섭",
+        "school": "포항 영신 고등학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-5117-5249",
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      }
+    ]
+  },
+  {
+    "group_num": 5,
+    "school_level": "고등학교",
+    "members": [
+      {
+        "name": "심효은",
+        "school": "경주디자인고등학교",
+        "school_type": "수석교사",
+        "subject": "전문교과",
+        "phone": "010-8542-0382",
+        "remarks": "수석교사",
+        "is_leader": true
+      },
+      {
+        "name": "김훈석",
+        "school": "경북외국어고등학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "010-2110-2612",
+        "remarks": "연구부장 1년 등",
+        "is_leader": false
+      },
+      {
+        "name": "김태현",
+        "school": "포항중앙고등학교",
+        "school_type": "교사",
+        "subject": "도덕.윤리",
+        "phone": "010-6356-6424",
+        "remarks": "2025 고교 성취평가 선도교원 연수 이수, 2024-2025 평가업무 담당",
+        "is_leader": false
+      },
+      {
+        "name": "임희연",
+        "school": "가은고등학교",
+        "school_type": "교사",
+        "subject": "한문",
+        "phone": "010-4620-1782",
+        "remarks": "연구부장 2년차",
+        "is_leader": false
+      },
+      {
+        "name": "안연규",
+        "school": "율곡고등학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-2439-8055",
+        "remarks": "성취평가제 선도교원 연수이수자",
+        "is_leader": false
+      },
+      {
+        "name": "안현진",
+        "school": "상주고등학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-4479-8843",
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "하연주",
+        "school": "경북외국어고등학교",
+        "school_type": "교사",
+        "subject": "생물",
+        "phone": "010-9507-1355",
+        "remarks": "2024 성취평가제 수업선도교사 인증",
+        "is_leader": false
+      },
+      {
+        "name": "박동희",
+        "school": "약목고등학교",
+        "school_type": "교사",
+        "subject": "물리",
+        "phone": "010-6666-0307",
+        "remarks": "2025년 수업선도교사 인증",
+        "is_leader": false
+      }
+    ]
+  },
+  {
+    "group_num": 6,
+    "school_level": "고등학교",
+    "members": [
+      {
+        "name": "황인철",
+        "school": "영일고등학교",
+        "school_type": "수석교사",
+        "subject": "지구과학",
+        "phone": "010-8533-5610",
+        "remarks": "선행학습점검단",
+        "is_leader": true
+      },
+      {
+        "name": "홍진호",
+        "school": "포항흥해공업고등학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "010-7191-3648",
+        "remarks": "2026년 연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "이은영",
+        "school": "한국해양마이스터고등학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-6266-6574",
+        "remarks": "2024년 성취평가제 선도교원 연수 이수,  연구부장 3년",
+        "is_leader": false
+      },
+      {
+        "name": "이재혁",
+        "school": "포항제철공업고등학교",
+        "school_type": "교사",
+        "subject": "역사",
+        "phone": "010-9336-1080",
+        "remarks": "학교장 추천 교사",
+        "is_leader": false
+      },
+      {
+        "name": "김정란",
+        "school": "가은고등학교",
+        "school_type": "교사",
+        "subject": "화학",
+        "phone": "010-3049-4193",
+        "remarks": "1. 수업지원을 위한 고교 성취평가 강사(핵심)교원 연수(2023. 12. 18.~2024. 01. 17.) \n2. 2025년디지털기반교육혁신연계중학교성취평가선도교원연수(2025. 07. 01.~2025. 07. 24.)",
+        "is_leader": false
+      },
+      {
+        "name": "조서연",
+        "school": "김천중앙고등학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-8857-6401",
+        "remarks": "2025 학생평가 종합 점검단",
+        "is_leader": false
+      },
+      {
+        "name": "이연화",
+        "school": "안동여자고등학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "010-6331-6203",
+        "remarks": "2026학년도 성취평가제 선도교원 연수 이수",
+        "is_leader": false
+      },
+      {
+        "name": "김종웅",
+        "school": "율곡고등학교",
+        "school_type": "교사",
+        "subject": "지리",
+        "phone": "010-3811-7466",
+        "remarks": "지침 및 매뉴얼 개정 연구팀 활동 4년",
+        "is_leader": false
+      }
+    ]
+  },
+  {
+    "group_num": 7,
+    "school_level": "고등학교",
+    "members": [
+      {
+        "name": "이승우",
+        "school": "포항제철고등학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-6723-0813",
+        "remarks": "학생평가 지침 및 매뉴얼   개정 연구팀",
+        "is_leader": true
+      },
+      {
+        "name": "박민주",
+        "school": "구미정보고등학교",
+        "school_type": "교사",
+        "subject": "상업",
+        "phone": "010-6283-7454",
+        "remarks": "학생평가 지침 및 매뉴얼 개정 연구팀",
+        "is_leader": false
+      },
+      {
+        "name": "한진혁",
+        "school": "구미고등학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "010-6437-4524",
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "서아영",
+        "school": "경주여자고등학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-2403-5875",
+        "remarks": "2026년 연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "권정혜",
+        "school": "선덕여자고등학교",
+        "school_type": "교사",
+        "subject": "생명과학",
+        "phone": "010-8852-7119",
+        "remarks": "2026 성취평가제 선도교원 연수, 2026년 연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "김안나",
+        "school": "석적고등학교",
+        "school_type": "교사",
+        "subject": "화학",
+        "phone": "010-3630-7680",
+        "remarks": "2025년 성취평가제   선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "김여령",
+        "school": "인동고등학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "010-6550-3356",
+        "remarks": "2025년 고등학교 성취평가 선도교원연수 이수(2기, 26.01.07-01.09)",
+        "is_leader": false
+      },
+      {
+        "name": "구민정",
+        "school": "상모고등학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-9274-7696",
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      }
+    ]
+  },
+  {
+    "group_num": 8,
+    "school_level": "고등학교",
+    "members": [
+      {
+        "name": "최연호",
+        "school": "사곡고등학교",
+        "school_type": "수석교사",
+        "subject": "물리",
+        "phone": "010-2534-7697",
+        "remarks": "수석교사",
+        "is_leader": true
+      },
+      {
+        "name": "성현택",
+        "school": "경북과학고등학교",
+        "school_type": "교사",
+        "subject": "역사",
+        "phone": "010-9178-9952",
+        "remarks": "2025년 디지털기반교육혁신연계 고등학교 성취평가선도교원 연수(6기)",
+        "is_leader": false
+      },
+      {
+        "name": "박재인",
+        "school": "경북조리과학고등학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "010-9219-3071",
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "엄지혜",
+        "school": "경북바이오마이스터고등학교",
+        "school_type": "교사",
+        "subject": "일반사회",
+        "phone": "010-3465-2475",
+        "remarks": "2025년 수업선도교사 인증",
+        "is_leader": false
+      },
+      {
+        "name": "주미경",
+        "school": "금오공업고등학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-9570-4289",
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "김진목",
+        "school": "영천전자고등학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-7337-3569",
+        "remarks": "2026년 연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "최근석",
+        "school": "김천한일고등학교",
+        "school_type": "교사",
+        "subject": "생명과학",
+        "phone": "01093730967",
+        "remarks": "연구부장2년",
+        "is_leader": false
+      }
+    ]
+  },
+  {
+    "group_num": 9,
+    "school_level": "고등학교",
+    "members": [
+      {
+        "name": "임경숙",
+        "school": "김천여자고등학교",
+        "school_type": "수석교사",
+        "subject": "국어",
+        "phone": "010-5641-3381",
+        "remarks": "",
+        "is_leader": true
+      },
+      {
+        "name": "정수인",
+        "school": "후포고등학교",
+        "school_type": "교사",
+        "subject": "지리",
+        "phone": "010-8516-4686",
+        "remarks": "성취평가제   선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "유화정",
+        "school": "금오공업고등학교",
+        "school_type": "교사",
+        "subject": "역사",
+        "phone": "010-2710-3189",
+        "remarks": "성취평가제 선도교원연수   이수(2026.1.)",
+        "is_leader": false
+      },
+      {
+        "name": "정소라",
+        "school": "구미여자고등학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "010-7721-1201",
+        "remarks": "학생평가지침 및 메뉴얼 개정 연구팀",
+        "is_leader": false
+      },
+      {
+        "name": "최원일",
+        "school": "이서고등학교",
+        "school_type": "교사",
+        "subject": "윤리",
+        "phone": "010-4857-5105",
+        "remarks": "2024 성취평가제 선도교원 연수 이수",
+        "is_leader": false
+      },
+      {
+        "name": "정해숙",
+        "school": "동명고등학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-5139-1981",
+        "remarks": "성취평가제(중) 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "김혜진",
+        "school": "동명고등학교",
+        "school_type": "교사",
+        "subject": "일반사회",
+        "phone": "010-5556-0367",
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      }
+    ]
+  },
+  {
+    "group_num": 10,
+    "school_level": "고등학교",
+    "members": [
+      {
+        "name": "이동호",
+        "school": "구미산동고등학교",
+        "school_type": "교사",
+        "subject": "지리",
+        "phone": "010-5445-0873",
+        "remarks": "2023,2024 학생평가 중앙 지원단, 2022~2026년 연구부장",
+        "is_leader": true
+      },
+      {
+        "name": "이진혁",
+        "school": "상주공업고등학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-9711-1744",
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "김주헌",
+        "school": "모계고등학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-5282-2089",
+        "remarks": "2026년 연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "이충재",
+        "school": "신라고등학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "010-2861-2126",
+        "remarks": "연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "주연정",
+        "school": "경북모빌리티고등학교",
+        "school_type": "교사",
+        "subject": "전자",
+        "phone": "010-8572-7661",
+        "remarks": "연구부장 2년",
+        "is_leader": false
+      },
+      {
+        "name": "김옥희",
+        "school": "경주디자인고등학교",
+        "school_type": "교사",
+        "subject": "사회",
+        "phone": "010-2559-4711",
+        "remarks": "2026 연구부장, 2026 수업혁신사례연구대회 전국2등급",
+        "is_leader": false
+      },
+      {
+        "name": "이의원",
+        "school": "율곡고등학교",
+        "school_type": "교사",
+        "subject": "일반사회",
+        "phone": "010-4104-4336",
+        "remarks": "2025 수업선도교사 인증",
+        "is_leader": false
+      }
+    ]
+  },
+  {
+    "group_num": 11,
+    "school_level": "고등학교",
+    "members": [
+      {
+        "name": "노현진",
+        "school": "인동고등학교",
+        "school_type": "수석교사",
+        "subject": "음악",
+        "phone": "010-3008-8653",
+        "remarks": "수석교사",
+        "is_leader": true
+      },
+      {
+        "name": "김태민",
+        "school": "상모고등학교",
+        "school_type": "교사",
+        "subject": "지리",
+        "phone": "010-9192-9893",
+        "remarks": "연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "한솔아",
+        "school": "선덕여자고등학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-4016-9932",
+        "remarks": "2026 성취평가제 선도교원 연수",
+        "is_leader": false
+      },
+      {
+        "name": "허수진",
+        "school": "경북기계금속고등학교",
+        "school_type": "교사",
+        "subject": "일본어",
+        "phone": "010-8802-8180",
+        "remarks": "연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "은수현",
+        "school": "구미정보고등학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "010-2131-3820",
+        "remarks": "2026년 연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "권용길",
+        "school": "사곡고등학교",
+        "school_type": "교사",
+        "subject": "역사",
+        "phone": "010-6607-2877",
+        "remarks": "수업연구교사(2019~2021),   경북수업나눔교사단(2021~2023), 경북신퇴계교사단(2025)",
+        "is_leader": false
+      },
+      {
+        "name": "박지원",
+        "school": "계림고등학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-7250-2135",
+        "remarks": "2025년 수업선도교사 인증",
+        "is_leader": false
+      }
+    ]
+  },
+  {
+    "group_num": 12,
+    "school_level": "고등학교",
+    "members": [
+      {
+        "name": "이혜옥",
+        "school": "김천중앙고등학교",
+        "school_type": "수석교사",
+        "subject": "영어",
+        "phone": "010-3382-6771",
+        "remarks": "",
+        "is_leader": true
+      },
+      {
+        "name": "조현래",
+        "school": "포항이동고등학교",
+        "school_type": "교사",
+        "subject": "역사",
+        "phone": "010-8553-9388",
+        "remarks": "성취평가제 선도교원 연수 이수",
+        "is_leader": false
+      },
+      {
+        "name": "곽미소",
+        "school": "이서고등학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-4810-2767",
+        "remarks": "2025 성취평가제 선도교원 연수 이수, 연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "윤경민",
+        "school": "성의고등학교",
+        "school_type": "교사",
+        "subject": "물리",
+        "phone": "010-9393-7618",
+        "remarks": "연구부장 및 교육과정부장(2년)",
+        "is_leader": false
+      },
+      {
+        "name": "박지민",
+        "school": "경산고등학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "010-3695-1123",
+        "remarks": "성취평가제 선도교원 연수   이수자",
+        "is_leader": false
+      },
+      {
+        "name": "이수진",
+        "school": "사동고등학교",
+        "school_type": "교사",
+        "subject": "중국어",
+        "phone": "010-5006-8884",
+        "remarks": "2023~2025년 수업선도교사 인증",
+        "is_leader": false
+      },
+      {
+        "name": "김나영",
+        "school": "포항이동고등학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-2665-3765",
+        "remarks": "성취평가제 선도교원 연수 이수",
+        "is_leader": false
+      }
+    ]
+  },
+  {
+    "group_num": 13,
+    "school_level": "중학교",
+    "members": [
+      {
+        "name": "노정",
+        "school": "문경중학교",
+        "school_type": "수석교사",
+        "subject": "국어",
+        "phone": "010-8594-9715",
+        "remarks": "수석교사",
+        "is_leader": true
+      },
+      {
+        "name": "노태철",
+        "school": "선산중학교",
+        "school_type": "교사",
+        "subject": "지구과학",
+        "phone": "010-6299-7810",
+        "remarks": "2025년 성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "안형진",
+        "school": "낙운중학교",
+        "school_type": "교사",
+        "subject": "체육",
+        "phone": "010-3397-8997",
+        "remarks": "2020, 2021, 2024년 수업선도교사 인증",
+        "is_leader": false
+      },
+      {
+        "name": "김나이",
+        "school": "대흥중학교",
+        "school_type": "교사",
+        "subject": "도덕",
+        "phone": "010-3927-4677",
+        "remarks": "2024년디지털기반교육혁신연계중학교성취평가선도교원(2기)",
+        "is_leader": false
+      },
+      {
+        "name": "신재호",
+        "school": "압량중학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "010-2030-6100",
+        "remarks": "2023~2025 개정 연구팀",
+        "is_leader": false
+      },
+      {
+        "name": "강하영",
+        "school": "삼성현중학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-9089-5584",
+        "remarks": "2026년 연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "김희준",
+        "school": "봉화중학교",
+        "school_type": "교사",
+        "subject": "역사",
+        "phone": "010-2040-0136",
+        "remarks": "2026년 연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "이은아",
+        "school": "함창중학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-6797*-1117",
+        "remarks": "교육정부부장(평가업무) 2년",
+        "is_leader": false
+      },
+      {
+        "name": "채숙희",
+        "school": "고령중학교개진분교장",
+        "school_type": "교사",
+        "subject": "생물",
+        "phone": "010-8897-9039",
+        "remarks": "2024~2025년 수업선도교사 인증",
+        "is_leader": false
+      }
+    ]
+  },
+  {
+    "group_num": 14,
+    "school_level": "중학교",
+    "members": [
+      {
+        "name": "이동윤",
+        "school": "상모중학교",
+        "school_type": "수석교사",
+        "subject": "기술",
+        "phone": "010-3424-4127",
+        "remarks": "수석교사",
+        "is_leader": true
+      },
+      {
+        "name": "강호철",
+        "school": "진성중학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "01050476052",
+        "remarks": "연구교사 2년 이상",
+        "is_leader": false
+      },
+      {
+        "name": "이지민",
+        "school": "근화여자중학교",
+        "school_type": "교사",
+        "subject": "도덕윤리",
+        "phone": "010-2398-9321",
+        "remarks": "성취평가제 선도교원, 연구부장 2년",
+        "is_leader": false
+      },
+      {
+        "name": "박원래",
+        "school": "안동중학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-2834-2824",
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "이장원",
+        "school": "문성중학교",
+        "school_type": "교사",
+        "subject": "체육",
+        "phone": "010-9776-1600",
+        "remarks": "2026학년도   연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "이지은",
+        "school": "화랑중학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "010-9079-8675",
+        "remarks": "2025 수업선도교사 인증, 연구부장 3년(2024~2026)",
+        "is_leader": false
+      },
+      {
+        "name": "이수현",
+        "school": "상도중학교",
+        "school_type": "교사",
+        "subject": "역사",
+        "phone": "010-2641-1528",
+        "remarks": "연구부장(1년차)",
+        "is_leader": false
+      },
+      {
+        "name": "고보현",
+        "school": "흥해중",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-5191-5550",
+        "remarks": "연구부평가계원 본인희망",
+        "is_leader": false
+      },
+      {
+        "name": "김지영",
+        "school": "옥계중학교",
+        "school_type": "교사",
+        "subject": "사회",
+        "phone": "010-3632-5216",
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      }
+    ]
+  },
+  {
+    "group_num": 15,
+    "school_level": "중학교",
+    "members": [
+      {
+        "name": "이언정",
+        "school": "신라중학교",
+        "school_type": "수석교사",
+        "subject": "화학",
+        "phone": "010-4886-3620",
+        "remarks": "수석교사",
+        "is_leader": true
+      },
+      {
+        "name": "김윤서",
+        "school": "화랑중학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "010-6778-1686",
+        "remarks": "2025 성취평가제 선도교원   연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "한인아",
+        "school": "대송중학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-5121-1455",
+        "remarks": "성취평가 선도교원 연수이수",
+        "is_leader": false
+      },
+      {
+        "name": "이현주",
+        "school": "불국중학교",
+        "school_type": "교사",
+        "subject": "과학(생물)",
+        "phone": "010-7186-7050",
+        "remarks": "연구부장 3년차",
+        "is_leader": false
+      },
+      {
+        "name": "서정욱",
+        "school": "선덕여자중학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-4588-7591",
+        "remarks": "2026년 연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "김영미",
+        "school": "포항이동중학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-9390-3412",
+        "remarks": "연구부장, 성취평가선도교원연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "이수향",
+        "school": "경산여자중학교",
+        "school_type": "교사",
+        "subject": "과학",
+        "phone": "010-5421-9764",
+        "remarks": "연구기획 2년, 2026년 연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "서은화",
+        "school": "성주중학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-9323-9092",
+        "remarks": "25년 성취평가제 선도교원 연수 이수",
+        "is_leader": false
+      },
+      {
+        "name": "박혜린",
+        "school": "해마루중학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-4090-1032",
+        "remarks": "2025년 성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      }
+    ]
+  },
+  {
+    "group_num": 16,
+    "school_level": "중학교",
+    "members": [
+      {
+        "name": "박주영",
+        "school": "포항여자중학교",
+        "school_type": "수석교사",
+        "subject": "음악",
+        "phone": "010-3731-1362",
+        "remarks": "수석교사",
+        "is_leader": true
+      },
+      {
+        "name": "여채영",
+        "school": "석적중학교",
+        "school_type": "교사",
+        "subject": "과학",
+        "phone": "010-9290-1005",
+        "remarks": "2023/2024/2025 수업전문가(선도교사) 3회 인증",
+        "is_leader": false
+      },
+      {
+        "name": "최고은",
+        "school": "낙운중학교",
+        "school_type": "교사",
+        "subject": "기술·가정",
+        "phone": "010-3877-4892",
+        "remarks": "2025년 수업선도교사 인증",
+        "is_leader": false
+      },
+      {
+        "name": "황혜현",
+        "school": "대흥중학교",
+        "school_type": "교사",
+        "subject": "역사",
+        "phone": "010-9565-3427",
+        "remarks": "2025년 수업선도교사 인증",
+        "is_leader": false
+      },
+      {
+        "name": "안성은",
+        "school": "한일여자중학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-4291-0025",
+        "remarks": "연구부장2년, 2025 경북형 서논술형 평가전문가단 연수 이수",
+        "is_leader": false
+      },
+      {
+        "name": "최한내",
+        "school": "석적중학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-5193-9009",
+        "remarks": "2025 성취평가 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "허미연",
+        "school": "삼성현중학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-8713-0180",
+        "remarks": "성취평가제 선도교육 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "김은희",
+        "school": "산동중학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "01030361026",
+        "remarks": "2025 성취평가제 선도교원 연수 이수, 2025-2026 연구부장, 2025 학생평가 종합 점검단",
+        "is_leader": false
+      }
+    ]
+  },
+  {
+    "group_num": 17,
+    "school_level": "중학교",
+    "members": [
+      {
+        "name": "김명주",
+        "school": "양덕중학교",
+        "school_type": "수석교사",
+        "subject": "미술",
+        "phone": "010-7487-2729",
+        "remarks": "2012~ 중등수석교사",
+        "is_leader": true
+      },
+      {
+        "name": "권재희",
+        "school": "영천여자중학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-6490-1127",
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "김태우",
+        "school": "문성중학교",
+        "school_type": "교사",
+        "subject": "과학",
+        "phone": "010-9135-6766",
+        "remarks": "성취평가제   선도교원 연수 이수자     2024, 2025년 수업선도교사 인증",
+        "is_leader": false
+      },
+      {
+        "name": "최유경",
+        "school": "환호여자중학교",
+        "school_type": "교사",
+        "subject": "도덕",
+        "phone": "010-6343-3287",
+        "remarks": "성취평가 선도교원 이수",
+        "is_leader": false
+      },
+      {
+        "name": "권숙현",
+        "school": "장흥중학교",
+        "school_type": "교사",
+        "subject": "일반사회",
+        "phone": "010-4004-1236",
+        "remarks": "성취평가 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "김혜영",
+        "school": "해마루중학교",
+        "school_type": "교사",
+        "subject": "한문",
+        "phone": "010-2688-0081",
+        "remarks": "2026년 연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "이기성",
+        "school": "구미문성중학교",
+        "school_type": "교사",
+        "subject": "물리",
+        "phone": "010-7550-0531",
+        "remarks": "2026년 연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "박영준",
+        "school": "금호중학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-6410-3267",
+        "remarks": "성취평가제 선도교원 연수 이수 및 연구부장 1년",
+        "is_leader": false
+      }
+    ]
+  },
+  {
+    "group_num": 18,
+    "school_level": "중학교",
+    "members": [
+      {
+        "name": "김은숙",
+        "school": "화랑중학교",
+        "school_type": "수석교사",
+        "subject": "수학",
+        "phone": "010-6239-2773",
+        "remarks": "2025,2026학생평가 중앙지원단",
+        "is_leader": true
+      },
+      {
+        "name": "엄희현",
+        "school": "근화여자중학교",
+        "school_type": "교사",
+        "subject": "화학",
+        "phone": "010-5199-8227",
+        "remarks": "2025년 성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "박성진",
+        "school": "신라중학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-2812-6256",
+        "remarks": "성취평가제선도교원연수이수자",
+        "is_leader": false
+      },
+      {
+        "name": "김주혜",
+        "school": "서라벌여자중학교",
+        "school_type": "교사",
+        "subject": "생물",
+        "phone": "010-4811-0116",
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "조지형",
+        "school": "근화여자중학교",
+        "school_type": "교사",
+        "subject": "일반사회",
+        "phone": "010-6512-8882",
+        "remarks": "경북형서논술형평가전문단연수(사회)성취평가제 선도교원 연수이수 교실혁명선도교사연수이수",
+        "is_leader": false
+      },
+      {
+        "name": "류경희",
+        "school": "석적중학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-2661-4898",
+        "remarks": "연구부장 2년",
+        "is_leader": false
+      },
+      {
+        "name": "문정희",
+        "school": "상주중학교",
+        "school_type": "교사",
+        "subject": "도덕윤리",
+        "phone": "010-9382-9960",
+        "remarks": "2025년 수업선도교사인증",
+        "is_leader": false
+      },
+      {
+        "name": "김정미",
+        "school": "인동중학교",
+        "school_type": "교사",
+        "subject": "지구과학",
+        "phone": "010-3128-0265",
+        "remarks": "2025년 성취평가제   선도교원 연수 이수자",
+        "is_leader": false
+      }
+    ]
+  },
+  {
+    "group_num": 19,
+    "school_level": "중학교",
+    "members": [
+      {
+        "name": "허은혜",
+        "school": "이서중학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "010-6522-0592",
+        "remarks": "2024~2025중앙지원단, 학생평가도움자료 제작팀, 성취평가제 선도교원 연수 강사",
+        "is_leader": true
+      },
+      {
+        "name": "정현미",
+        "school": "창포중학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-3409-1022",
+        "remarks": "연구부장 3년차",
+        "is_leader": false
+      },
+      {
+        "name": "임혜지",
+        "school": "경안여자중학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "01035547882",
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "신진경",
+        "school": "아포중학교",
+        "school_type": "교사",
+        "subject": "과학(화학)",
+        "phone": "010-8729-7987",
+        "remarks": "2026년 연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "하경화",
+        "school": "송정여자중학교",
+        "school_type": "교사",
+        "subject": "도덕윤리",
+        "phone": "010-4806-4116",
+        "remarks": "2025 성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "황가영",
+        "school": "낙운중학교",
+        "school_type": "교사",
+        "subject": "일반사회",
+        "phone": "010-7440-3777",
+        "remarks": "2024년 성취평가제 선도교원 1기 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "윤효정",
+        "school": "광평중학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-3217-9397",
+        "remarks": "연구부장 2년",
+        "is_leader": false
+      },
+      {
+        "name": "임준렬",
+        "school": "감문중학교",
+        "school_type": "교사",
+        "subject": "생물",
+        "phone": "010-9351-1760",
+        "remarks": "-25 지침 및 매뉴얼 개정 연구팀\n-연구부장 2년\n-수업선도교사 인증",
+        "is_leader": false
+      }
+    ]
+  },
+  {
+    "group_num": 20,
+    "school_level": "중학교",
+    "members": [
+      {
+        "name": "김해정",
+        "school": "약목중학교",
+        "school_type": "수석교사",
+        "subject": "국어",
+        "phone": "010-4844-0359",
+        "remarks": "2025. 학생평가종합점검단",
+        "is_leader": true
+      },
+      {
+        "name": "은 지",
+        "school": "기계중학교기북분교장",
+        "school_type": "교사",
+        "subject": "일반사회",
+        "phone": "010-4682-4204",
+        "remarks": "2025 성취평가선도교원연수이수, 2026 연구부장업무담당자",
+        "is_leader": false
+      },
+      {
+        "name": "김정화",
+        "school": "송도중학교",
+        "school_type": "교사",
+        "subject": "H1지구과학",
+        "phone": "010-2824-4587",
+        "remarks": "연구부장 2년, 2026년 연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "이현래",
+        "school": "가은중학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "phone": "010-8653-3545",
+        "remarks": "2026년 연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "변현희",
+        "school": "환호여자중학교",
+        "school_type": "교사",
+        "subject": "영어",
+        "phone": "010-7420-1368",
+        "remarks": "연구부장",
+        "is_leader": false
+      },
+      {
+        "name": "김은경",
+        "school": "화랑중학교",
+        "school_type": "교사",
+        "subject": "화학",
+        "phone": "010-4587-2503",
+        "remarks": "성취평자게 선도교원 연수   이수자",
+        "is_leader": false
+      },
+      {
+        "name": "김명희",
+        "school": "선산중학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-3456-0327",
+        "remarks": "2025년 성취평가제 선도교원 연수 이수자",
+        "is_leader": false
+      },
+      {
+        "name": "김기동",
+        "school": "문성중학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "phone": "010-5890-6742",
+        "remarks": "디지털 기반 교육혁신 연계 중학교 성취평가 선도교원 연수 이수(2024)          연구부장 2년",
+        "is_leader": false
+      }
+    ]
+  }
+]
