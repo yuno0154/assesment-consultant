@@ -154,6 +154,11 @@ tr:hover td { background: #f8fafc; }
   main { margin-left: 220px; padding: 1.2rem; }
   .stats-grid { grid-template-columns: repeat(3,1fr); }
 }
+
+/* 그룹명 토글 */
+#view-groups.grp-hidden .m-grp-badge,
+#view-groups.grp-hidden .card-grp-badges,
+#view-groups.grp-hidden .grp-td { display: none !important; }
 </style>
 </head>
 <body>
@@ -266,6 +271,7 @@ tr:hover td { background: #f8fafc; }
         <div class="view-toggle">
           <button class="vt-btn active" onclick="setGroupView('table',this)">&#9776; 표 보기</button>
           <button class="vt-btn" onclick="setGroupView('card',this)">&#9638; 카드 보기</button>
+          <button class="vt-btn active" id="grp-toggle-btn" onclick="toggleGrpLabel(this)">그룹명 숨기기</button>
         </div>
       </div>
       <button class="btn btn-green" onclick="exportExcel()">
@@ -403,7 +409,7 @@ function buildGroupTable(){
       html+=`<td style="color:#94a3b8;">${idx+1}</td>`;
       html+=`<td style="font-weight:600;">${m.name}${ldrBadge}</td>`;
       html+=`<td>${m.school}</td><td>${typeBadge}</td><td>${m.subject}</td>`;
-      html+=`<td>${grpBadge}</td><td>${ldrBadge}</td>`;
+      html+=`<td class="grp-td">${grpBadge}</td><td>${ldrBadge}</td>`;
       tr.innerHTML=html;
       body.appendChild(tr);
     });
@@ -460,6 +466,13 @@ function buildGroupCards(){
 }
 
 let schoolFilter="all", groupViewMode="table";
+
+function toggleGrpLabel(btn){
+  const view=document.getElementById("view-groups");
+  const hidden=view.classList.toggle("grp-hidden");
+  btn.textContent=hidden?"그룹명 보이기":"그룹명 숨기기";
+  btn.classList.toggle("active", !hidden);
+}
 function setSchoolFilter(level,btn){
   schoolFilter=level;
   document.querySelectorAll(".sf-btn").forEach(b=>b.classList.remove("active"));
