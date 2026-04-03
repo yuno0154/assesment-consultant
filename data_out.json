@@ -1578,5 +1578,15 @@
     "phone": "010-8729-7987",
     "group": "6",
     "remarks": "2026년 연구부장"
+  },
+  {
+    "num": 159,
+    "school": "선주고등학교",
+    "school_type": "수석교사",
+    "name": "박양희",
+    "subject": "생명과학",
+    "phone": "",
+    "group": "1",
+    "remarks": "수석교사"
   }
 ]
