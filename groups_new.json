@@ -550,10 +550,10 @@
     "school_level": "고등학교",
     "members": [
       {
-        "name": "최연호",
-        "school": "사곡고등학교",
+        "name": "박양희",
+        "school": "선주고등학교",
         "school_type": "수석교사",
-        "subject": "물리",
+        "subject": "생명과학",
         "is_leader": true,
         "remarks": "수석교사",
         "main_grp": 1

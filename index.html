@@ -114,7 +114,7 @@ tr:hover td { background: #f8fafc; }
 .card-hdr-right { display: flex; align-items: center; gap: 8px; }
 .card-hdr .cnt { font-size: 0.78rem; opacity: 0.85; }
 .card-grp-badges { display: flex; gap: 4px; flex-wrap: wrap; }
-.card-grp-dot { font-size: 0.68rem; padding: 1px 6px; border-radius: 10px; font-weight: 700; background: rgba(255,255,255,0.2); }
+.card-grp-dot { font-size: 0.68rem; padding: 2px 7px; border-radius: 10px; font-weight: 700; }
 .m-row { display: flex; align-items: center; padding: 9px 14px; border-bottom: 1px solid #f0f4f8; gap: 10px; }
 .m-row:last-child { border-bottom: none; }
 .m-row.leader { background: #fff5f5; }
@@ -423,9 +423,9 @@ function buildGroupCards(){
 
     // 카드 헤더에 그룹 분포 뱃지
     const grpCounts={};
-    g.members.forEach(m=>{if(m.main_grp>=2)grpCounts[m.main_grp]=(grpCounts[m.main_grp]||0)+1;});
+    g.members.forEach(m=>{if(m.main_grp)grpCounts[m.main_grp]=(grpCounts[m.main_grp]||0)+1;});
     const grpBadgesHtml=Object.entries(grpCounts).sort().map(([g,c])=>
-      `<span class="card-grp-dot">${GRP_LABEL[g]}×${c}</span>`
+      `<span class="card-grp-dot" style="${GRP_STYLE[g]}">${GRP_LABEL[g]}×${c}</span>`
     ).join("");
 
     const membersHtml=g.members.map((m,idx)=>{
