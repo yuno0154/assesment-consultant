@@ -611,6 +611,15 @@
         "is_leader": false,
         "remarks": "성취평가제 선도교원 연수 이수자",
         "main_grp": 4
+      },
+      {
+        "name": "정기욱",
+        "school": "안동중앙고등학교",
+        "school_type": "교사",
+        "subject": "정보",
+        "is_leader": false,
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "main_grp": 4
       }
     ]
   },
@@ -680,6 +689,15 @@
         "is_leader": false,
         "remarks": "2025 수업선도교사 인증",
         "main_grp": 5
+      },
+      {
+        "name": "조문혁",
+        "school": "안동중앙고등학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "is_leader": false,
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "main_grp": 4
       }
     ]
   },
@@ -749,6 +767,15 @@
         "is_leader": false,
         "remarks": "성취평가제 선도교원 연수 이수",
         "main_grp": 4
+      },
+      {
+        "name": "김지인",
+        "school": "안동중앙고등학교",
+        "school_type": "교사",
+        "subject": "일반사회",
+        "is_leader": false,
+        "remarks": "학교관리자 추천",
+        "main_grp": 6
       }
     ]
   },
@@ -973,6 +1000,15 @@
         "subject": "생물",
         "is_leader": false,
         "remarks": "2024~2025년 수업선도교사 인증",
+        "main_grp": 5
+      },
+      {
+        "name": "박진형",
+        "school": "장곡중학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "is_leader": false,
+        "remarks": "2022년 수업선도교사 인증",
         "main_grp": 5
       }
     ]
@@ -1226,6 +1262,15 @@
         "is_leader": false,
         "remarks": "연구부평가계원 본인희망",
         "main_grp": 6
+      },
+      {
+        "name": "황귀남",
+        "school": "사동중학교",
+        "school_type": "교사",
+        "subject": "수학",
+        "is_leader": false,
+        "remarks": "연구부장 0.5년",
+        "main_grp": 6
       }
     ]
   },
@@ -1304,6 +1349,15 @@
         "is_leader": false,
         "remarks": "-25 지침 및 매뉴얼 개정 연구팀\n-연구부장 2년\n-수업선도교사 인증",
         "main_grp": 3
+      },
+      {
+        "name": "최춘희",
+        "school": "사동중학교",
+        "school_type": "교사",
+        "subject": "국어",
+        "is_leader": false,
+        "remarks": "성취평가제 선도교원 연수 이수자",
+        "main_grp": 4
       }
     ]
   },
@@ -1382,6 +1436,15 @@
         "is_leader": false,
         "remarks": "성취평가제 선도교원 연수 이수 및 연구부장 1년",
         "main_grp": 4
+      },
+      {
+        "name": "정혜윤",
+        "school": "옥계동부중학교",
+        "school_type": "교사",
+        "subject": "일반사회",
+        "is_leader": false,
+        "remarks": "연구부장 9년 6개월",
+        "main_grp": 6
       }
     ]
   },
@@ -1460,6 +1523,15 @@
         "is_leader": false,
         "remarks": "2025년 성취평가제   선도교원 연수 이수자",
         "main_grp": 4
+      },
+      {
+        "name": "김영선",
+        "school": "장곡중학교",
+        "school_type": "교사",
+        "subject": "과학",
+        "is_leader": false,
+        "remarks": "2025성취평가제 선도교원연수이수",
+        "main_grp": 4
       }
     ]
   },
@@ -1537,6 +1609,15 @@
         "subject": "국어",
         "is_leader": false,
         "remarks": "디지털 기반 교육혁신 연계 중학교 성취평가 선도교원 연수 이수(2024)          연구부장 2년",
+        "main_grp": 4
+      },
+      {
+        "name": "김소란",
+        "school": "장곡중학교",
+        "school_type": "교사",
+        "subject": "화학",
+        "is_leader": false,
+        "remarks": "2025성취평가제 선도교원연수이수",
         "main_grp": 4
       }
     ]

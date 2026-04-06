@@ -1588,5 +1588,95 @@
     "phone": "",
     "group": "1",
     "remarks": "수석교사"
+  },
+  {
+    "num": 160,
+    "school": "사동중학교",
+    "school_type": "교사",
+    "name": "황귀남",
+    "subject": "수학",
+    "phone": "010-9144-6093",
+    "group": "6",
+    "remarks": "연구부장 0.5년"
+  },
+  {
+    "num": 161,
+    "school": "사동중학교",
+    "school_type": "교사",
+    "name": "최춘희",
+    "subject": "국어",
+    "phone": "010-8984-2862",
+    "group": "4",
+    "remarks": "성취평가제 선도교원 연수 이수자"
+  },
+  {
+    "num": 162,
+    "school": "옥계동부중학교",
+    "school_type": "교사",
+    "name": "정혜윤",
+    "subject": "일반사회",
+    "phone": "010-8286-6784",
+    "group": "6",
+    "remarks": "연구부장 9년 6개월"
+  },
+  {
+    "num": 163,
+    "school": "장곡중학교",
+    "school_type": "교사",
+    "name": "김영선",
+    "subject": "과학",
+    "phone": "010-9372-4468",
+    "group": "4",
+    "remarks": "2025성취평가제 선도교원연수이수"
+  },
+  {
+    "num": 164,
+    "school": "장곡중학교",
+    "school_type": "교사",
+    "name": "김소란",
+    "subject": "화학",
+    "phone": "010-7125-1579",
+    "group": "4",
+    "remarks": "2025성취평가제 선도교원연수이수"
+  },
+  {
+    "num": 165,
+    "school": "장곡중학교",
+    "school_type": "교사",
+    "name": "박진형",
+    "subject": "국어",
+    "phone": "010-5017-8195",
+    "group": "5",
+    "remarks": "2022년 수업선도교사 인증"
+  },
+  {
+    "num": 166,
+    "school": "안동중앙고등학교",
+    "school_type": "교사",
+    "name": "정기욱",
+    "subject": "정보",
+    "phone": "010-2936-7065",
+    "group": "4",
+    "remarks": "성취평가제 선도교원 연수 이수자"
+  },
+  {
+    "num": 167,
+    "school": "안동중앙고등학교",
+    "school_type": "교사",
+    "name": "조문혁",
+    "subject": "수학",
+    "phone": "010-9439-0270",
+    "group": "4",
+    "remarks": "성취평가제 선도교원 연수 이수자"
+  },
+  {
+    "num": 168,
+    "school": "안동중앙고등학교",
+    "school_type": "교사",
+    "name": "김지인",
+    "subject": "일반사회",
+    "phone": "010-9677-3227",
+    "group": "6",
+    "remarks": "학교관리자 추천"
   }
 ]
